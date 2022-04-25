@@ -1,12 +1,15 @@
 # java45days
 
-
-
-
-
 ## Java Classes Example
 
 ## Auth Example
+
 ## Screenshots
 
-<img src='https://github.com/codelabs-live/java45days/blob/master/screenshots/auth_class.png'  width=700, height=300/>
+## Auth Class
+
+<img src='https://github.com/codelabs-live/java45days/blob/master/screenshots/auth_class.png'  width=700, height=400/>
+
+## Get Car Detials
+
+<img src='https://github.com/codelabs-live/java45days/blob/master/screenshots/get_car.png'  width=700, height=400/>
