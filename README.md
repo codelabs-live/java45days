@@ -4,7 +4,7 @@
 
 ## Auth Example
 
-## Screenshots
+# Screenshots
 
 ## Auth Class
 
