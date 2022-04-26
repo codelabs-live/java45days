@@ -10,6 +10,6 @@
 
 <img src='https://github.com/codelabs-live/java45days/blob/master/screenshots/auth_class.png'  width=700, height=400/>
 
-## Get Car Detials
+## Get Car Details
 
 <img src='https://github.com/codelabs-live/java45days/blob/master/screenshots/get_car.png'  width=700, height=400/>
